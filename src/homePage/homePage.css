@@ -1,0 +1,62 @@
+.homePage_section__style{
+    /* background: linear-gradient(rgb(19, 10, 42) 0%, rgb(28, 11, 71) 100%); */
+        padding-top: 10%;
+    padding-bottom: 20%;
+    padding-left: 12%;
+    padding-right: 12%;
+    
+}
+.homePage_section__style h1{
+    color: white;
+    font-weight:700;
+    font-size: 60px;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+}
+.homePage_section__style h2{
+    color: white;
+    font-weight:700;
+    font-size: 20px;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    padding-top: 3%;
+}
+.homePage_section__style p{
+    display: flex;
+    justify-content: center;
+    padding-top: 2%;
+}
+.homepage_button__style{
+    margin-left: 2%;
+}
+.button_sectionONE__style{
+    background: linear-gradient(
+        76.91deg, rgb(76, 232, 190) -125.56%, rgb(133, 67, 194) 116.11%);
+color: white;
+height: 50px;
+width: 150px;
+font-weight: 800;
+    font-size: 15px;
+    line-height: 24px;
+    letter-spacing: 0.2em;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    text-shadow: rgb(0 0 0 / 30%) 0px 2px 3px;
+    border: 0px;
+    border-radius: 0px;
+    z-index: auto;
+    transition: text-shadow 0.4s ease-in-out 0s;
+}
+    
+.buttonTwo_section__style{
+    background: transparent;
+    border: 3px solid rgb(255, 255, 255);
+    cursor: pointer;
+    outline: 0px;
+    color: white;
+    height: 50px;
+width: 150px;
+
+}

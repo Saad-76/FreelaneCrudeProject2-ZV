@@ -1,0 +1,31 @@
+.sectionFive_section__style{
+    display: flex; 
+    color: #ffffff;
+    padding: 2%;
+    align-items: center;
+    padding: 8%;
+
+    /* padding: 50px; */
+    padding-top: 8%;
+    padding-bottom: 8%;
+
+}
+
+.sectionFive_section__style h2{
+
+}
+
+.sectionFive_section__style p{
+  
+}
+.sectionFive_content__style{
+
+
+}
+.sectionFive_outer__style{
+    background: linear-gradient(rgb(19, 10, 42) 0%, rgb(28, 11, 71) 100%);
+
+}
+.sectionFive_image__style{
+    width: 100%;
+}

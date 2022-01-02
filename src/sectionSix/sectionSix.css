@@ -1,0 +1,16 @@
+.sectionSix_section__style {
+  display: flex;
+align-items: center;
+  color: white;
+  padding: 8%;
+  padding-top: 8%;
+  padding-bottom: 8%;
+}
+
+
+.sectionSix_outer__style {
+  background: linear-gradient(rgb(19, 10, 42) 0%, rgb(28, 11, 71) 100%);
+}
+.sectionSix_img__style{
+    width: 100%;
+}

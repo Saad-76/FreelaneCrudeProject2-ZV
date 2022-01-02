@@ -1,0 +1,15 @@
+.sectionSeven_section__style {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  color: white;
+  padding: 2%;
+  padding-top: 8%;
+  padding-bottom: 8%;
+}
+.sectionSeven_img__style{
+    width: 100%;
+}
+
+.sectionSeven_section__style h2{
+text-align: center;}

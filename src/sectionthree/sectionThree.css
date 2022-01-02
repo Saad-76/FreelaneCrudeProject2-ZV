@@ -1,0 +1,41 @@
+.sectionThree_section__style{
+
+    display: flex; 
+    align-items: center;
+    color: white;
+    /* padding: 50px; */
+    padding: 8%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+
+
+}
+
+
+
+img.section-img{
+    width: 100%;
+}
+
+@media screen and (max-width: 500px) {
+   .section-content p{
+        text-align: center;
+        padding: 5px;
+    }
+  .section-content  h2{
+        text-align: center;
+        padding-bottom: 10px;
+    }
+}
+
+/* 
+@media screen and (min-width: 780px) {
+    p{
+        text-align: center;
+        padding: 5px;
+    }
+    h2{
+        text-align: center;
+        padding-bottom: 10px;
+    }
+} */
